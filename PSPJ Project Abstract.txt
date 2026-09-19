@@ -1,4 +1,4 @@
-Project Title: Multi-Level Parking Lot Manager (Test3)
+Project Title: Multi-Level Parking Lot Manager
 
 Domain: Object-Oriented Software Engineering (Java)
 
