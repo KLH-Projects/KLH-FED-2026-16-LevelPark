@@ -1,1 +1,2 @@
-heheha
+Abstract - This project proposes a more modernized and centralised system to eventually replace (and/or) upgrade currently used systems and to maintain a unified hierarchical system where all recreations/installations arise from one single complex framework. The proposed system includes smarter and more digitalized features including but not limited to "trained camera vision" , "Domain-restricted access portals" , "Online transactional frameworks" , "Dimensional representation of available positional indices". The proposal further emphasizes it's ease of installation, compatibility of maintaining optimal rendering in various computational architectures.
+
