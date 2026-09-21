@@ -3,7 +3,7 @@
 A website-based parking management system that automates vehicle check-ins using camera-based License Plate Recognition (ANPR), automatically pulls vehicle details, and manages user sessions via dynamic QR code tickets.
 
 Made by :
-Sai Bhargav - 2620030109
+Jalla Sai Bhargav - 2620030109
 Karthik Reddy - 2620030056
 
 ---
