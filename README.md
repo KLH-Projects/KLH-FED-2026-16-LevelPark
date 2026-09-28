@@ -24,3 +24,31 @@ Karthik Reddy - 2620030056
 1. Check-In: Vehicle presents plate to camera -> System reads plate number -> System fetches vehicle make/model -> Spot assigned -> Dynamic QR ticket generated.
 2. Driver Access: Driver scans QR code -> Gains access to personalized session web portal (viewing assigned spot, timer, and running fee).
 3. Check-Out: Ticket is processed at exit -> Fee settled -> Spot freed in system -> QR session invalidated.
+
+---
+
+## Abstract
+Project Title: Multi-Level Parking Lot Manager
+
+Domain: Object-Oriented Software Engineering (Java)
+
+Abstract
+
+Urbanization and the growing number of vehicles have made efficient parking management a critical challenge in modern cities. The Multi-Level Parking Lot Manager is an automated Java-based application designed to streamline parking operations across multi-story facilities, reducing manual effort and traffic congestion.
+
+Built using core Object-Oriented Programming (OOP) principles—including Abstraction, Encapsulation, and Polymorphism—the system dynamically assigns optimal parking spots based on vehicle specifications (Motorcycles, Compact Cars, SUVs, and Electric Vehicles). The application tracks floor-wise spot availability in real-time, generates unique entry tickets upon check-in, and automatically calculates dynamic parking fees upon check-out based on duration and spot type. By offering structured data management and modular design, this system provides a scalable foundation for integration with modern smart-city infrastructures, automated entry gates, and database systems.
+
+Key Slide Bullets (For PPT Presentation)
+Problem Statement: Manual parking systems lead to delay, space inefficiency, and lack of real-time tracking across multiple floors.
+
+Proposed Solution: A Java-based automated management system that handles multi-floor allocation, spot type matching, and ticket generation.
+
+Core Technical Features:
+
+Dynamic spot allocation matching vehicle dimensions (Compact, SUV, EV, Motorcycle).
+
+Automated ticket issuance and time-based fee calculation upon exit.
+
+Real-time floor status tracking and spot availability updates.
+
+OOP Concepts Applied: Encapsulation (Ticket/Spot entities), Inheritance & Polymorphism (Vehicle subclasses), and Modular Architecture (ParkingLotManager).
