@@ -1,0 +1,3 @@
+SIMULATOR: Classroom seat Allocation
+Grid: Grid A
+Seats available: 18
