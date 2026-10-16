@@ -1,0 +1,2 @@
+Allocation{token='NOVA-12', cell='B-01', status='ACTIVE'}
+GridCell B-01 is occupied.

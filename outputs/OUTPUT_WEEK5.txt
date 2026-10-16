@@ -1,0 +1,3 @@
+allocate(PIXEL-04, A-04) -> success
+release(A-04) -> success
+freeSlots() -> 6

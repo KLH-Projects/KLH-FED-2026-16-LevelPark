@@ -1,0 +1,3 @@
+Cells inspected recursively: 6
+Free cells: 5
+Occupied cells: 1

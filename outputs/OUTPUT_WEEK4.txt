@@ -1,0 +1,4 @@
+1 Allocate  2 Release  3 View
+Allocated NOVA-12 -> A-03
+Released A-03
+Workflow complete.

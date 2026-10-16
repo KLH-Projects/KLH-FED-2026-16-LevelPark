@@ -1,0 +1,5 @@
+CLASSROOM SLOT-ALLOCATION - FINAL REPORT
+Active allocations: 3
+Free cells: 3
+Grid usage: GRID-A=2, GRID-B=1
+Status: simulation complete.

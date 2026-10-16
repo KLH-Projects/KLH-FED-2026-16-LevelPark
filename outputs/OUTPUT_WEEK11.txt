@@ -1,0 +1,3 @@
+Saved 2 fictional allocations to simulator-state.csv
+Loaded allocations: 2
+First record: ORBIT-07,A-02

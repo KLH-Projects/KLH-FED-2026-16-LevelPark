@@ -1,0 +1,3 @@
+Request: ORBIT-07 -> A-02
+Decision: ALLOCATED
+Remaining slots: 5

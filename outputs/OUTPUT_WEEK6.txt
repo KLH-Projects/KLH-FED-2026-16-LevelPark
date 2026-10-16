@@ -1,0 +1,3 @@
+Grid cells: [A-01, A-02, A-03, A-04]
+Search A-02 -> ORBIT-07
+Occupied cells: 1

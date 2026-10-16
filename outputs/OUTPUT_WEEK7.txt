@@ -1,0 +1,3 @@
+Rejected: duplicate token ORBIT-07.
+Rejected: cell A-99 is outside GRID-A.
+State unchanged: 1 allocation.

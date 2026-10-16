@@ -1,0 +1,3 @@
+Accepted command: ALLOCATE ORBIT-07 A-02
+Rejected command: Unknown grid label.
+Rejected command: Token is blank.
